@@ -6,37 +6,44 @@ A curated list of resources for Unreal Engine 5, and during the transition Unrea
 
 [AnswerHub](https://answers.unrealengine.com)
 
+[Community Wiki](https://wiki.unrealengine.com)
+
 [Engine Documentation](https://docs.unrealengine.com)
 
 [Official Forums](https://forums.unrealengine.com)
-
-[Community Wiki](https://wiki.unrealengine.com)
 
 [Unreal Engine Official YouTube](https://www.youtube.com/c/UnrealEngine)
 
 ## Community Links & Tutorials
 
-[UE4 Styleguide](https://github.com/Allar/ue4-style-guide)
+[Art Station UE4 Tutorials](https://www.artstation.com/marketplace/game-dev/tutorials/unreal-engine?page=2)
 
 [Tom Looman UE4 Tutorials](https://www.tomlooman.com/)
 
+[UE4 Styleguide](https://github.com/Allar/ue4-style-guide)
+
 [World of Level Design](https://worldofleveldesign.com/)
 
-[Art Station UE4 Tutorials](https://www.artstation.com/marketplace/game-dev/tutorials/unreal-engine?page=2)
 
 ## Unreal Engine Communities
 
-[Unreal Slackers Discord](https://unrealslackers.org/)
-
 [GameDev.tv Discord](https://discord.com/invite/eUSFZdJ)
 
-## Unreal Engine YouTube Channels
+[Unreal Slackers Discord](https://unrealslackers.org/)
+
+## Unreal Engine Community YouTube Channels
+
+[Ben Cloward](https://www.youtube.com/user/bcloward)
 
 [CodeLikeMe](https://www.youtube.com/c/CodeLikeMe)
 
 [Code Monkey](https://www.youtube.com/channel/UCFK6NCbuCIVzA6Yj1G_ZqCg)
 
+[DevAddict](https://www.youtube.com/c/DevAddict/)
+
 [Dev Enabled](https://www.youtube.com/c/DevEnabled)
+
+[Dokipen](https://www.youtube.com/c/Dokipen)
 
 [DevSquad](https://www.youtube.com/channel/UCz-eYJAUgSE-mqzKtit7m9g)
 
@@ -46,6 +53,8 @@ A curated list of resources for Unreal Engine 5, and during the transition Unrea
 
 [Mathew Wadstein](https://www.youtube.com/channel/UCOVfF7PfLbRdVEm0hONTrNQ)
 
+[MR3D-Dev](https://www.youtube.com/c/MR3DDev)
+
 [Ryan Laley](https://www.youtube.com/c/RyanLaley)
 
 [Reuben Ward Tutorials](https://www.youtube.com/c/ReubenWardTutorials)
@@ -54,7 +63,11 @@ A curated list of resources for Unreal Engine 5, and during the transition Unrea
 
 [Sneaky Kitty Game Dev](https://www.youtube.com/channel/UCYcDJPGvIUFxBTmXOZWFswQ)
 
-[Unreal Engine Official Channel](https://www.youtube.com/c/UnrealEngine)
+[Underscore](https://www.youtube.com/c/underscore00)
+
+[Unreal Sensei](https://www.youtube.com/c/UnrealSensei)
+
+[William Faucher](https://www.youtube.com/c/WilliamFaucher)
 
 ## Paid Courses
 
