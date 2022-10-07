@@ -1,6 +1,6 @@
 # Awesome Unreal Engine 5
 
-A curated list of resources for Unreal Engine 5, and during the transition Unreal Engine 4 as well.  Feel free to send in pull requests for resources that you've used, but please don't remove resources that don't have UE5 content just yet.
+A curated list of resources for Unreal Engine 5.Feel free to send in pull requests for resources that you've used and can recommend!
 
 ## Official Links
 
@@ -16,14 +16,13 @@ A curated list of resources for Unreal Engine 5, and during the transition Unrea
 
 ## Community Links & Tutorials
 
-[Art Station UE4 Tutorials](https://www.artstation.com/marketplace/game-dev/tutorials/unreal-engine?page=2)
+[Art Station UE5 Tutorials](https://www.artstation.com/marketplace/game-dev/tutorials/unreal-engine?page=2)
 
-[Tom Looman UE4 Tutorials](https://www.tomlooman.com/)
+[Tom Looman UE5 Tutorials](https://www.tomlooman.com/)
 
-[UE4 Styleguide](https://github.com/Allar/ue4-style-guide)
+[UE5 Styleguide](https://github.com/Allar/ue5-style-guide)
 
 [World of Level Design](https://worldofleveldesign.com/)
-
 
 ## Unreal Engine Communities
 
@@ -73,7 +72,7 @@ A curated list of resources for Unreal Engine 5, and during the transition Unrea
 
 [GameDev.tv Unreal Engine Blueprint Game Developer Online Course](https://www.gamedev.tv/p/unreal-blueprint/)
 
-[GameDev.tv Unreal 4.22 C++ Developer: Learn C++ and Make Video Games](https://www.gamedev.tv/p/learn-unreal-engine-c-developer-4-22-for-video-game-development/)
+[GameDev.tv Unreal 5.0 C++ Developer: Learn C++ and Make Video Games](https://www.gamedev.tv/p/unreal-5-0-c-developer-learn-c-and-make-video-games)
 
 [GameDev.tv Unreal Multiplayer Master: Video Game Dev In C++ Course](https://www.gamedev.tv/p/unrealmultiplayer)
 
