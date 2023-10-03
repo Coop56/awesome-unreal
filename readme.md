@@ -8,6 +8,7 @@
   - [Scripting](#scripting)
 - [Projects](#projects)
 - [Resources](#resources)
+  - [Articles & Documentation](#articles--documentation)
   - [Books](#books)
   - [YouTube Channels](#youtube-channels)
 
