@@ -5,7 +5,14 @@
 ## Contents
 
 - [Awesome Unreal Repositories](#awesome-unreal-repositories)
+  - [AI](#ai)
+  - [Gameplay](#gameplay)
+  - [Locomotion](#locomotion)
+  - [Networking](#networking)
   - [Scripting](#scripting)
+  - [UI](#ui)
+  - [Utilities](#utilities)
+  - [World Building](#world-building)
 - [Projects](#projects)
 - [Resources](#resources)
   - [Articles & Documentation](#articles--documentation)
@@ -14,15 +21,63 @@
 
 ## Awesome Unreal Repositories
 
+### AI
+
+- [Charisma SDK](https://github.com/charisma-ai/charisma-sdk-unreal) - A tool for building conversational characters into your game.
+- [Reasonable Planning AI](https://github.com/hollsteinm/ReasonablePlanningAI) - Create an AI using a data driven editor.
+
+### Gameplay
+
+- [PBCharacterMovement](https://github.com/ProjectBorealis/PBCharacterMovement) - HL2-style, classic FPS movement for Unreal Engine implemented in C++.
+- [SPUD](https://github.com/sinbad/SPUD) - Save game state and streaming level persistence solution.
+- [SUQS](https://github.com/sinbad/SUQS) - Data driven quest system.
+- [UE4-CustomGravityPlugin](https://github.com/HoussineMehnik/UE4-CustomGravityPlugin) - Custom gravity plugin.
+- [ue4-targetsystemplugin](https://github.com/mklabs/ue4-targetsystemplugin) - Dark Souls inspired camera lock on and targeting system plugin.
+- [VaFogOfWar](https://github.com/ufna/VaFogOfWar) - A clear and simple solution of Fog of War for Unreal Engine.
+
+### Locomotion
+
+- [ALS-Community](https://github.com/dyanikoglu/ALS-Community) - Replicated and optimized community version of Advanced Locomotion System V4
+
+### Networking
+
+- [ObjectDeliverer](https://github.com/ayumax/ObjectDeliverer) - Data transmission and reception library for Unreal Engine.
+- [SMN2](https://github.com/Reddy-dev/SMN2) - Character movement network prediction.
+- [SocketIOClient-Unreal](https://github.com/getnamo/SocketIOClient-Unreal) - Socket.IO client plugin for Unreal Engine.
+- [Socketer](https://github.com/How2Compute/Socketer) - A TCP socket blueprint library for Unreal Engine.
+- [TCP-Unreal](https://github.com/getnamo/TCP-Unreal) - Convenience TCP wrapper for Unreal Engine.
+- [UDP-Unreal](https://github.com/getnamo/UDP-Unreal) - Convenience UDP wrapper for Unreal Engine.
+- [Unreal Fetch](https://github.com/GDi4K/unreal-fetch) - Fetch API inspired HTTP client for Unreal Engine.
+- [VaRest](https://github.com/ufna/VaRest) - REST API plugin for Unreal Engine.
+
 ### Scripting
 
 - [Unreal.js](https://github.com/ncsoft/Unreal.js) - Javascript runtime built for Unreal Engine.
 - [UnrealCLR](https://github.com/nxrighthere/UnrealCLR) - Unreal Engine .NET 6 Integration.
 - [Unreal Rust](https://github.com/MaikKlein/unreal-rust) - Opinionated Rust integration for Unreal Engine.
 
+### UI
+
+- [Custom Shape Button](https://github.com/JanSeliv/CustomShapeButton) - Allows you to make buttosn of any shape.
+- [MDFastBinding](https://github.com/DoubleDeez/MDFastBinding) - A versatile and performant alternative to property bindings.
+- [Settings Widget Constructor](https://github.com/JanSeliv/SettingsWidgetConstructor) - Automatically generate UI for your game settings.
+
+### Utilities
+
+- [Houdini Engine](https://github.com/sideeffects/HoudiniEngineForUnreal) - A plugin to allow integration with Houdini Digital Assets workflows.
+- [Ultraleap SDK](https://github.com/ultraleap/UnrealPlugin) - Enables data produced by Ultraleap's hand tracking to be used by developers inside their Unreal projects.
+
+### World Building
+
+- [Street Map](https://github.com/ue4plugins/StreetMap) - Import OpenStreetMap XML data into your Unreal Engine project.
+- [UnrealSandboxTerrain](https://github.com/bw2012/UnrealSandboxTerrain) - Smooth voxel terrain plugin.
+- [Voxel Plugin](https://github.com/Phyronnaz/VoxelPlugin) - Create fully volumetric, entirely destructible, infinite worlds in Unreal Engine.
+
 ## Projects
 
 - [Aura](https://github.com/DruidMech/GameplayAbilitySystem_Aura) - An example game built using the Gameplay Ability System.
+- [Bomber](https://github.com/JanSeliv/Bomber) - Open-source Bomberman multiplayer game made in Unreal Engine 5.
+- [Lyra](https://docs.unrealengine.com/5.0/en-US/lyra-sample-game-in-unreal-engine/) - Example game built by Epic Games.
 
 ## Resources
 
