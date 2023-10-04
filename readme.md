@@ -16,7 +16,9 @@
 - [Projects](#projects)
 - [Resources](#resources)
   - [Articles & Documentation](#articles--documentation)
+  - [Blogs](#blogs)
   - [Books](#books)
+  - [Communities](#communities)
   - [YouTube Channels](#youtube-channels)
 
 ## Awesome Unreal Repositories
@@ -86,15 +88,30 @@
 - [GASDocumentation](https://github.com/tranek/GASDocumentation) - Helps fill in the gaps of the official Gameplay Ability System documentation.
 - [UE5 Styleguide](https://github.com/Allar/ue5-style-guide) - Guidelines for making Unreal Engine projects more consistent.
 
+### Blogs
+
+- [Tom Looman UE5 Tutorials](https://www.tomlooman.com/) - Various Unreal Engine focused tutorials.
+- [World of Level Design](https://worldofleveldesign.com/) - A whole host of tutorials dedicated to designing levels.
+
 ### Books
 
 - [Blueprints Visual Scripting for Unreal Engine 5](https://www.packtpub.com/product/blueprints-visual-scripting-for-unreal-engine-5-third-edition/9781801811583)
 
+### Communities
+
+- [GameDev.tv Discord](https://discord.com/invite/eUSFZdJ) - A community focused on the GameDev.tv courses.
+- [Unreal Source](https://unrealsource.com/) - The largest Discord community focused on Unreal Engine.
+
 ### YouTube Channels
 
-- [Unreal Engine](https://www.youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ) - The official Unreal Engine YouTube channel with weekly livestreams.
-- [The Cherno Project](https://www.youtube.com/user/TheChernoProject) - While not specific to Unreal Engine, Cherno has tons of great C++ and general game engine content.
+- [Ben Cloward](https://www.youtube.com/user/bcloward) - Focused primarily on shader creation tutorials.
+- [CodeLikeMe](https://www.youtube.com/c/CodeLikeMe) - A wide variety of Unreal Engine focused tutorials.
 - [Mathew Wadstein](https://www.youtube.com/@MathewWadsteinTutorials) - Easily one of the most useful channels for Unreal Engine. Videos going over just about every major class and Blueprint node.
+- [Ryan Laley](https://www.youtube.com/c/RyanLaley) - Primarily Blueprint based Unreal Engine tutorials.
+- [Smart Poly](https://www.youtube.com/c/SmartPoly) - Large range of tutorials including a Survival Game course.
+- [The Cherno Project](https://www.youtube.com/user/TheChernoProject) - While not specific to Unreal Engine, Cherno has tons of great C++ and general game engine content.
+- [Unreal Engine](https://www.youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ) - The official Unreal Engine YouTube channel with weekly livestreams.
+- [Virtus Learning Hub](https://www.youtube.com/channel/UCz-eYJAUgSE-mqzKtit7m9g) - Unreal Engine focused tutorials with several lengthy courses.
 
 ## Contribute
 
