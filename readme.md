@@ -79,6 +79,7 @@
 
 - [Aura](https://github.com/DruidMech/GameplayAbilitySystem_Aura) - An example game built using the Gameplay Ability System.
 - [Bomber](https://github.com/JanSeliv/Bomber) - Open-source Bomberman multiplayer game made in Unreal Engine 5.
+- [Eternal Crusade: Resurrection](https://github.com/JediKnightChan/EternalCrusadeResurrection) - Multiplayer shooter built using best practides from Lyra.
 - [Lyra](https://docs.unrealengine.com/5.0/en-US/lyra-sample-game-in-unreal-engine/) - Example game built by Epic Games.
 
 ## Resources
