@@ -49,7 +49,7 @@
 - [Socketer](https://github.com/How2Compute/Socketer) - A TCP socket blueprint library for Unreal Engine.
 - [TCP-Unreal](https://github.com/getnamo/TCP-Unreal) - Convenience TCP wrapper for Unreal Engine.
 - [UDP-Unreal](https://github.com/getnamo/UDP-Unreal) - Convenience UDP wrapper for Unreal Engine.
-- [Unreal Fetch](https://github.com/GDi4K/unreal-fetch) - Fetch API inspired HTTP client for Unreal Engine.
+- [Unreal Fetch](https://github.com/GDi4K/unreal-fetch) - Fetch API-inspired HTTP client for Unreal Engine.
 - [VaRest](https://github.com/ufna/VaRest) - REST API plugin for Unreal Engine.
 
 ### Scripting
@@ -60,7 +60,7 @@
 
 ### UI
 
-- [Custom Shape Button](https://github.com/JanSeliv/CustomShapeButton) - Allows you to make buttosn of any shape.
+- [Custom Shape Button](https://github.com/JanSeliv/CustomShapeButton) - Allows you to make buttons of any shape.
 - [MDFastBinding](https://github.com/DoubleDeez/MDFastBinding) - A versatile and performant alternative to property bindings.
 - [Settings Widget Constructor](https://github.com/JanSeliv/SettingsWidgetConstructor) - Automatically generate UI for your game settings.
 
@@ -80,7 +80,7 @@
 
 - [Aura](https://github.com/DruidMech/GameplayAbilitySystem_Aura) - An example game built using the Gameplay Ability System.
 - [Bomber](https://github.com/JanSeliv/Bomber) - Open-source Bomberman multiplayer game made in Unreal Engine 5.
-- [Eternal Crusade: Resurrection](https://github.com/JediKnightChan/EternalCrusadeResurrection) - Multiplayer shooter built using best practides from Lyra.
+- [Eternal Crusade: Resurrection](https://github.com/JediKnightChan/EternalCrusadeResurrection) - Multiplayer shooter built using best practices from Lyra.
 - [Lyra](https://docs.unrealengine.com/5.0/en-US/lyra-sample-game-in-unreal-engine/) - Example game built by Epic Games.
 
 ## Resources
@@ -107,13 +107,14 @@
 ### YouTube Channels
 
 - [Ben Cloward](https://www.youtube.com/user/bcloward) - Focused primarily on shader creation tutorials.
-- [CodeLikeMe](https://www.youtube.com/c/CodeLikeMe) - A wide variety of Unreal Engine focused tutorials.
+- [CodeLikeMe](https://www.youtube.com/c/CodeLikeMe) - A wide variety of Unreal Engine-focused tutorials.
+- [Gorka Games](https://www.youtube.com/@GorkaGames) - Tons of great content Gorka creates lengthy tutorial series, short tutorials and covers Unreal Engine news.
 - [Mathew Wadstein](https://www.youtube.com/@MathewWadsteinTutorials) - Easily one of the most useful channels for Unreal Engine. Videos going over just about every major class and Blueprint node.
-- [Ryan Laley](https://www.youtube.com/c/RyanLaley) - Primarily Blueprint based Unreal Engine tutorials.
+- [Ryan Laley](https://www.youtube.com/c/RyanLaley) - Primarily Blueprint-based Unreal Engine tutorials.
 - [Smart Poly](https://www.youtube.com/c/SmartPoly) - Large range of tutorials including a Survival Game course.
 - [The Cherno Project](https://www.youtube.com/user/TheChernoProject) - While not specific to Unreal Engine, Cherno has tons of great C++ and general game engine content.
-- [Unreal Engine](https://www.youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ) - The official Unreal Engine YouTube channel with weekly livestreams.
-- [Virtus Learning Hub](https://www.youtube.com/channel/UCz-eYJAUgSE-mqzKtit7m9g) - Unreal Engine focused tutorials with several lengthy courses.
+- [Unreal Engine](https://www.youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ) - The official Unreal Engine YouTube channel with weekly live streams.
+- [Virtus Learning Hub](https://www.youtube.com/channel/UCz-eYJAUgSE-mqzKtit7m9g) - Unreal Engine-focused tutorials with several lengthy courses.
 
 ## Contribute
 
