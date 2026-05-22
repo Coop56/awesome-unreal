@@ -88,7 +88,7 @@
 ### Articles & Documentation
 
 - [GASDocumentation](https://github.com/tranek/GASDocumentation) - Helps fill in the gaps of the official Gameplay Ability System documentation.
-- [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
+- [TutorialSearch](https://tutorialsearch.io/browse/animation-3d/unreal-engine) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 - [UE5 Styleguide](https://github.com/Allar/ue5-style-guide) - Guidelines for making Unreal Engine projects more consistent.
 
 ### Blogs
