@@ -78,6 +78,7 @@
 
 ## Projects
 
+- [ALIS](https://github.com/fallintodusk/alis) - In-development UE5 survival game built from real places, beginning with one reconstructed city location, with server-side MET-based metabolism and AGPL-3.0 C++ code.
 - [Aura](https://github.com/DruidMech/GameplayAbilitySystem_Aura) - An example game built using the Gameplay Ability System.
 - [Bomber](https://github.com/JanSeliv/Bomber) - Open-source Bomberman multiplayer game made in Unreal Engine 5.
 - [Eternal Crusade: Resurrection](https://github.com/JediKnightChan/EternalCrusadeResurrection) - Multiplayer shooter built using best practices from Lyra.
