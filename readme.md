@@ -35,7 +35,6 @@
 - [SUQS](https://github.com/sinbad/SUQS) - Data driven quest system.
 - [UE4-CustomGravityPlugin](https://github.com/HoussineMehnik/UE4-CustomGravityPlugin) - Custom gravity plugin.
 - [ue4-targetsystemplugin](https://github.com/mklabs/ue4-targetsystemplugin) - Dark Souls inspired camera lock on and targeting system plugin.
-- [VaFogOfWar](https://github.com/ufna/VaFogOfWar) - A clear and simple solution of Fog of War for Unreal Engine.
 
 ### Locomotion
 
@@ -43,19 +42,16 @@
 
 ### Networking
 
-- [ObjectDeliverer](https://github.com/ayumax/ObjectDeliverer) - Data transmission and reception library for Unreal Engine.
 - [SMN2](https://github.com/Reddy-dev/SMN2) - Character movement network prediction.
 - [SocketIOClient-Unreal](https://github.com/getnamo/SocketIOClient-Unreal) - Socket.IO client plugin for Unreal Engine.
 - [Socketer](https://github.com/How2Compute/Socketer) - A TCP socket blueprint library for Unreal Engine.
 - [TCP-Unreal](https://github.com/getnamo/TCP-Unreal) - Convenience TCP wrapper for Unreal Engine.
 - [UDP-Unreal](https://github.com/getnamo/UDP-Unreal) - Convenience UDP wrapper for Unreal Engine.
 - [Unreal Fetch](https://github.com/GDi4K/unreal-fetch) - Fetch API-inspired HTTP client for Unreal Engine.
-- [VaRest](https://github.com/ufna/VaRest) - REST API plugin for Unreal Engine.
 
 ### Scripting
 
 - [Unreal.js](https://github.com/ncsoft/Unreal.js) - Javascript runtime built for Unreal Engine.
-- [UnrealCLR](https://github.com/nxrighthere/UnrealCLR) - Unreal Engine .NET 6 Integration.
 - [Unreal Rust](https://github.com/MaikKlein/unreal-rust) - Opinionated Rust integration for Unreal Engine.
 
 ### UI
