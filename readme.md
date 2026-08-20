@@ -74,6 +74,7 @@
 
 ## Projects
 
+- [Action Roguelike](https://github.com/tomlooman/ActionRoguelike) - Co-op action roguelike sample game built in Unreal Engine 5 and C++.
 - [ALIS](https://github.com/fallintodusk/alis) - In-development UE5 survival game built from real places, beginning with one reconstructed city location, with server-side MET-based metabolism and AGPL-3.0 C++ code.
 - [Aura](https://github.com/DruidMech/GameplayAbilitySystem_Aura) - An example game built using the Gameplay Ability System.
 - [Bomber](https://github.com/JanSeliv/Bomber) - Open-source Bomberman multiplayer game made in Unreal Engine 5.
@@ -93,7 +94,12 @@
 
 ### Blogs
 
+- [Devtricks](https://vorixo.github.io/devtricks/) - Articles on Unreal Engine networking and multiplayer.
+- [hzFishy's Game Dev Notes](https://notes.hzfishy.fr/) - Extensive Unreal Engine notes, references, and troubleshooting tips.
 - [Tom Looman UE5 Tutorials](https://www.tomlooman.com/) - Various Unreal Engine focused tutorials.
+- [Unreal Directive](https://unrealdirective.com/) - Searchable Unreal Engine references, guides, articles, and tips.
+- [Unreal Garden](https://unreal-garden.com/) - Unreal Engine C++, Blueprint, and UI tutorials and documentation.
+- [WizardCell](https://wizardcell.com/) - Unreal Engine multiplayer and gameplay framework articles.
 - [World of Level Design](https://worldofleveldesign.com/) - A whole host of tutorials dedicated to designing levels.
 
 ### Books
@@ -107,6 +113,7 @@
 
 ### YouTube Channels
 
+- [Alex Forsythe](https://www.youtube.com/@AlexForsythe) - Unreal Engine architecture, C++, and Blueprint explanations.
 - [Ben Cloward](https://www.youtube.com/user/bcloward) - Focused primarily on shader creation tutorials.
 - [CodeLikeMe](https://www.youtube.com/c/CodeLikeMe) - A wide variety of Unreal Engine-focused tutorials.
 - [Gorka Games](https://www.youtube.com/@GorkaGames) - Tons of great content Gorka creates lengthy tutorial series, short tutorials and covers Unreal Engine news.
