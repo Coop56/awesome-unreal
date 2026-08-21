@@ -20,6 +20,7 @@
   - [Books](#books)
   - [Communities](#communities)
   - [YouTube Channels](#youtube-channels)
+- [Contribute](#contribute)
 
 ## Awesome Unreal Repositories
 
@@ -38,7 +39,7 @@
 
 ### Locomotion
 
-- [ALS-Community](https://github.com/dyanikoglu/ALS-Community) - Replicated and optimized community version of Advanced Locomotion System V4
+- [ALS-Community](https://github.com/dyanikoglu/ALS-Community) - Replicated and optimized community version of Advanced Locomotion System V4.
 
 ### Networking
 
@@ -51,7 +52,7 @@
 
 ### Scripting
 
-- [Unreal.js](https://github.com/ncsoft/Unreal.js) - Javascript runtime built for Unreal Engine.
+- [Unreal.js](https://github.com/ncsoft/Unreal.js) - JavaScript runtime built for Unreal Engine.
 - [Unreal Rust](https://github.com/MaikKlein/unreal-rust) - Opinionated Rust integration for Unreal Engine.
 
 ### UI
