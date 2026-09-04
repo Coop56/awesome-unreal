@@ -64,6 +64,7 @@
 ### Utilities
 
 - [Houdini Engine](https://github.com/sideeffects/HoudiniEngineForUnreal) - A plugin to allow integration with Houdini Digital Assets workflows.
+- [Micromegas](https://github.com/madesroches/micromegas) - Telemetry plugin and self-hosted backend that ships UE_LOG output, metrics, and traces from the editor and packaged builds to a SQL-queryable store.
 - [Ultraleap SDK](https://github.com/ultraleap/UnrealPlugin) - Enables data produced by Ultraleap's hand tracking to be used by developers inside their Unreal projects.
 
 ### World Building
