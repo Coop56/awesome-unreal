@@ -88,6 +88,7 @@
 ### Articles & Documentation
 
 - [GASDocumentation](https://github.com/tranek/GASDocumentation) - Helps fill in the gaps of the official Gameplay Ability System documentation.
+- [RafaSC UE5 Guides](https://rafucos.github.io/rafasc-links/guides/) - Written guides on stylized water, toon shading and hand-painted edge wear in UE5 materials.
 - [Samples and Tutorials](https://dev.epicgames.com/documentation/en-us/unreal-engine/samples-and-tutorials-for-unreal-engine) - Epic's official collection of templates, example projects, and tutorials.
 - [UE5 Styleguide](https://github.com/Allar/ue5-style-guide) - Guidelines for making Unreal Engine projects more consistent.
 - [Unreal Engine C++ API Reference](https://dev.epicgames.com/documentation/en-us/unreal-engine/API) - Searchable API reference generated from Unreal Engine source code.
